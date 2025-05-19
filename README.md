@@ -1,9 +1,9 @@
 # Blog Editor App
 
-A full-stack blog editor with login/signup using JWT authentication.
+A full-stack blog editor with login/signup using session authentication.
 
 ## Features
-- User authentication (JWT)
+- User authentication (session)
 - Create, edit, delete blogs
 - View drafts and published blogs
 - Protected actions (only logged-in users)
@@ -44,8 +44,8 @@ A full-stack blog editor with login/signup using JWT authentication.
 ## Tech Stack
 - **Frontend**: React.js
 - **Backend**: Node.js, Express
-- **Database**: MySQL/PostgreSQL with Sequelize
-- **Auth**: JWT
+- **Database**: MySQL
+- **Auth**: expression-session
 
 ## How to run
 1. Start backend:
