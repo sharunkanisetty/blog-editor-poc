@@ -20,24 +20,24 @@ A full-stack blog editor with login/signup using JWT authentication.
 - URL: `/signup`
 - New users can register.
 - Screenshot:
-  ![Signup](../screenshots/signup.png)
+  ![Signup](/screenshots/signup.png)
 
 ### 📝 Editor Page
 - URL: `/edit`
 - Create or update a blog.
 - Screenshot:
-  ![Editor](../screenshots/create-blog.png)
+  ![Editor](/screenshots/create-blog.png)
 
 ### 📃 All Blogs Page
 - Lists all published or draft blogs.
 - Screenshot:
-  ![Blogs](../screenshots/blog-list.png)
-  ![Blogs](../screenshots/blog-list-draft.png)
+  ![Blogs](/screenshots/blog-list.png)
+  ![Blogs](/screenshots/blog-list-draft.png)
 
   ### 📃 view Blogs Page
 - view published blogs.
 - Screenshot:
-  ![Blogs](../screenshots/blog-view.png)
+  ![Blogs](/screenshots/blog-view.png)
   
 
 
