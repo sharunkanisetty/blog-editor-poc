@@ -14,7 +14,7 @@ A full-stack blog editor with login/signup using JWT authentication.
 - URL: `/login`
 - Allows existing users to login.
 - Screenshot:
-  ![Login](../screenshots/login.png)
+  ![Login](/screenshots/login.png)
 
 ### 🧾 Signup Page
 - URL: `/signup`
