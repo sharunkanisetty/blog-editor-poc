@@ -50,4 +50,4 @@ A full-stack blog editor with login/signup using JWT authentication.
 ## How to run
 1. Start backend:
    ```bash
-   node server.js
+   node app.js
